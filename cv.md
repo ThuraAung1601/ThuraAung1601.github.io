@@ -1,15 +1,14 @@
-## Hey Friends !!! 👋
-
-<img align="right" width="200" height="200" src="https://github.com/ThuraAung1601/About_Me/blob/gh-pages/mee.jpeg">
-
-My name is Thura Aung. 👨‍💻 <br />
-I am a curious learner, Microsoft Learn Student Ambassador and an educator. <br />
-Fields of interest are Computer Vision, AI Ethics and Applied Math.
-
 ### Education
 
 - Went to Conqueror Academy of Education
 - Studies IT Engineering at [**Kyaukse Technological University**](https://www.kyauksetu.edu.mm/)
+
+### Work Experiences
+
+- Science Column Editor at Morning E-Magazine ( May 2016 - May 2018 )
+- AI Engineering Member at AVAIRDS ( Oct 2020 - Present )
+- Founder and Public Relations Executive at KTU IT Club ( Jan 2020 - Jan 2021 )
+- Microsoft Learn Student Ambassador ( Jan 2021 - Present )
 
 ### Licenses & Certifications
 
