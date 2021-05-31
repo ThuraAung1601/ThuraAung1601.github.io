@@ -1,70 +1,26 @@
----
-layout: resume
----
-## Currently
+## Hey Friends !!! 👋
 
-Current Position Description
+<img align="right" width="200" height="200" src="https://github.com/ThuraAung1601/About_Me/blob/gh-pages/mee.jpeg">
 
-## Education
+My name is Thura Aung. 👨‍💻 <br />
+I am a curious learner, Microsoft Learn Student Ambassador and an educator. <br />
+Fields of interest are Computer Vision, AI Ethics and Applied Math.
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+### Education
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+- Went to Conqueror Academy of Education
+- Studies IT Engineering at [**Kyaukse Technological University**](https://www.kyauksetu.edu.mm/)
 
-## Awards
+### Licenses & Certifications
 
-`2012`
-Name of Award, Organization 
+- [Mathematics for Machine Learning - Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/HLKJS7S6CL5U)
+- [Machine Learning Course - Stanford Online on Coursera](https://www.coursera.org/account/accomplishments/certificate/UR5GRU4TVGG5)
+- [Deep Learning Specialization - DeepLearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/XXKRZ3HYNUL5)
+- [DeepLearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/28ZKMPT9UDHA)
 
-## Publications
+### Contact Me
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- 👋 [Facebook](http://www.facebook.com/thura1601), [LinkedIn](https://www.linkedin.com/in/thura-aung/)
+- 📧 thuraaung.ai.mdy@gmail.com , thuraaung.it.2017@kyauksetu.edu.mm 
+- 📱 +959972960063
+- 🏠 Mandalay, Myanmar 🇲🇲
