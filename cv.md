@@ -1,4 +1,7 @@
-###
+### Currently
+
+Currently, I am focusing on Optical Character Recognition Tasks.
+
 ### Education
 
 - Went to Conqueror Academy of Education
@@ -10,6 +13,7 @@
 - AI Engineering Member at AVAIRDS ( Oct 2020 - Present )
 - Founder and Public Relations Executive at KTU IT Club ( Jan 2020 - Jan 2021 )
 - Microsoft Learn Student Ambassador ( Jan 2021 - Present )
+- Volunteer Content Editor at Self-Study Camp
 
 ### Licenses & Certifications
 
