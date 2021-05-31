@@ -1,19 +1,18 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Portfolio of Thura Aung
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Thura Aung
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Undergrad | AI Devotee"
+  email: thuraaung.it.2017@kyauksetu.edu.mm
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  linkedin: Thura Aung
+  github: ThuraAung1601
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
