@@ -25,6 +25,6 @@ Currently, I am focusing on Optical Character Recognition Tasks.
 ### Contact Me
 
 - 👋 [Facebook](http://www.facebook.com/thura1601), [LinkedIn](https://www.linkedin.com/in/thura-aung/)
-- 📧 thuraaung.ai.mdy@gmail.com , thuraaung.it.2017@kyauksetu.edu.mm 
+- 📧 [Gmail](thuraaung.ai.mdy@gmail.com) , [Edu Mail](thuraaung.it.2017@kyauksetu.edu.mm) 
 - 📱 +959972960063
 - 🏠 Mandalay, Myanmar 🇲🇲
