@@ -6,4 +6,4 @@ excerpt: "Recent Workshops"
 
 # Workshops I've Put Together
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+- [Introduction to Programming with Python](https://github.com/ThuraAung1601/Intro_Python)
