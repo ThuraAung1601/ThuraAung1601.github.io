@@ -1,6 +1,4 @@
----
-layout: resume
----
+###
 ### Education
 
 - Went to Conqueror Academy of Education
