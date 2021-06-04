@@ -1,12 +1,3 @@
----
-layout: post
-title: Blog post collection (2019-2020 )
-excerpt: "A Collection of all Blog posts I have written (2019-2020)"
-modified: 5/31/2021, 9:36
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
-category: blog
----
 ## A Collection of all Blog posts I have written (2019-2020)
 
 ### Machine Learning Blogs I have written in Burmese Language
